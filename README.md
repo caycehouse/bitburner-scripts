@@ -3,7 +3,7 @@
 Scripts that I have created while playing the game bitburner.
 
 ## The Game
-https://github.com/bitburner-official/bitburner-beta
+https://github.com/danielyxie/bitburner
 
 
 ## License
